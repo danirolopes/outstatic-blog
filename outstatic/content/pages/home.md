@@ -2,16 +2,25 @@
 title: 'Home'
 status: 'published'
 author:
-  name: 'Andre Vitorio'
+  name: 'Daniel Lopes'
   picture: ''
 slug: 'home'
-description: 'This is my blog.'
+description: 'Anotações e pensamentos sem compromisso. Leia sobre próprio risco de passar raiva'
 coverImage: ''
 publishedAt: '2022-03-17T05:35:07.322Z'
 ---
 
-## Hello!
+# Eco chamber do Rolha
 
-# I'm Andre, nice to meet you.
+Anotações e pensamentos sem compromisso. Leia sobre próprio risco de passar raiva. 
 
-I am a surfer + musician + software developer + designer + online marketer and whatever else I can cram into this existence.
+Talvez toda quarta pontualmente às 23:13
+
+Lista completa e exaustiva de assuntos abordados:
+
+- Software (principalmente WebDev e arquitetura)
+- Culinária
+- Esportes (futebol, futebol americano, talvez outros)
+- AI
+- Desenvolvimento de produto + empreendedorismo
+- Qualquer coisa que der vontade falar no dia
