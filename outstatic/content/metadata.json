@@ -1,6 +1,6 @@
 {
-  "commit": "58efaa9d164f1136a4deea2e8f0a6ab0f66a1080",
-  "generated": "2025-01-16T06:34:17.452Z",
+  "commit": "6b680fd8b380c7f069f92637020c3539b7b13a57",
+  "generated": "2025-01-16T06:45:41.766Z",
   "metadata": [
     {
       "__outstatic": {
@@ -52,24 +52,6 @@
     },
     {
       "__outstatic": {
-        "commit": "f1d49d79a01c1d85981f368c71944529e6583183",
-        "hash": "1806945073",
-        "path": "outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Daniel Lopes",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "Anotações e pensamentos sem compromisso. Leia sobre próprio risco de passar raiva",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "home",
-      "status": "published",
-      "title": "Home"
-    },
-    {
-      "__outstatic": {
         "commit": "58efaa9d164f1136a4deea2e8f0a6ab0f66a1080",
         "hash": "1553779826",
         "path": "outstatic/content/posts/primeiros-devaneios.md"
@@ -91,6 +73,24 @@
         }
       ],
       "title": "Primeiros Devaneios"
+    },
+    {
+      "__outstatic": {
+        "commit": "6b680fd8b380c7f069f92637020c3539b7b13a57",
+        "hash": "2096350334",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Daniel Lopes",
+        "picture": ""
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "Anotações e pensamentos sem compromisso. Leia sobre próprio risco de passar raiva",
+      "publishedAt": "2022-03-17T05:35:07.322Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
     }
   ]
 }

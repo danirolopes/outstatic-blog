@@ -12,6 +12,8 @@ publishedAt: '2022-03-17T05:35:07.322Z'
 
 # Eco chamber do Rolha
 
+Generalista convicto. Engenheiro por vocação. Otimista por falta de opção. 
+
 Anotações e pensamentos sem compromisso. Leia sobre próprio risco de passar raiva
 
 Talvez toda quarta pontualmente às 23:13
