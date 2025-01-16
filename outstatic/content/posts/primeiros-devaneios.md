@@ -1,6 +1,6 @@
 ---
 title: 'Primeiros Devaneios'
-status: 'draft'
+status: 'published'
 author:
   name: 'Daniel Lopes'
   picture: ''

@@ -1,6 +1,6 @@
 {
   "commit": "58efaa9d164f1136a4deea2e8f0a6ab0f66a1080",
-  "generated": "2025-01-16T06:32:24.076Z",
+  "generated": "2025-01-16T06:32:28.688Z",
   "metadata": [
     {
       "__outstatic": {
@@ -71,7 +71,7 @@
     {
       "__outstatic": {
         "commit": "58efaa9d164f1136a4deea2e8f0a6ab0f66a1080",
-        "hash": "4103586887",
+        "hash": "3572201929",
         "path": "outstatic/content/posts/primeiros-devaneios.md"
       },
       "author": {
@@ -83,7 +83,7 @@
       "description": "",
       "publishedAt": "2025-01-16T03:45:27.278Z",
       "slug": "primeiros-devaneios",
-      "status": "draft",
+      "status": "published",
       "tags": [
         {
           "label": "Ensaio",
