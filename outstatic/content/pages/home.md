@@ -7,7 +7,7 @@ author:
 slug: 'home'
 description: 'Anotações e pensamentos sem compromisso. Leia sobre próprio risco de passar raiva'
 coverImage: ''
-publishedAt: '2022-03-17T05:35:07.322Z'
+publishedAt: '2025-01-16T02:35:07.000Z'
 ---
 
 # Eco chamber do Rolha
