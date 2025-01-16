@@ -1,6 +1,6 @@
 {
-  "commit": "ec7be52c3460d2d0712265dee9196d3e10560123",
-  "generated": "2025-01-16T04:03:24.744Z",
+  "commit": "acfc97de36290cb6efd934c966dc821e1921867d",
+  "generated": "2025-01-16T06:29:49.355Z",
   "metadata": [
     {
       "__outstatic": {
@@ -67,6 +67,26 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "acfc97de36290cb6efd934c966dc821e1921867d",
+        "hash": "1800911407",
+        "path": "outstatic/content/posts/primeiros-devaneios.md"
+      },
+      "author": {
+        "name": "Daniel Lopes",
+        "picture": ""
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-16T03:45:27.278Z",
+      "slug": "primeiros-devaneios",
+      "status": "draft",
+      "tags": [
+      ],
+      "title": "Primeiros Devaneios"
     }
   ]
 }
