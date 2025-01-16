@@ -3,17 +3,17 @@ import { Metadata } from 'next'
 import '../styles/index.css'
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://outstatic.com'),
+  metadataBase: new URL('https://blog.danirolopes.com.br'),
   title: {
-    default: 'Outstatic',
-    template: '%s | Outstatic'
+    default: 'Eco Chamber do Rolha',
+    template: '%s | Rolha'
   },
-  description: 'A blog starter built with Outstatic.',
+  description: 'Coletânea de pensamentos e anotações do Rolha',
   openGraph: {
-    title: 'Outstatic - A Static Site CMS for Next.js',
-    description: 'A blog starter built with Outstatic.',
+    title: 'Eco Chamber do Rolha',
+    description: 'Coletânea de pensamentos e anotações do Rolha',
     url: absoluteUrl('/'),
-    siteName: 'Next.js',
+    siteName: 'Eco Chamber do Rolha',
     images: [
       {
         url: absoluteUrl('/images/og-image.png'),
@@ -21,7 +21,7 @@ export const metadata: Metadata = {
         height: 1600
       }
     ],
-    locale: 'en_US',
+    locale: 'pt_BR',
     type: 'website'
   },
   icons: {
@@ -36,7 +36,7 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en">
+    <html lang="pt=br">
       <body>{children}</body>
     </html>
   )
