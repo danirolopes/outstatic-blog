@@ -6,7 +6,7 @@ author:
   picture: ''
 slug: 'primeiros-devaneios'
 description: ''
-coverImage: ''
+coverImage: 'https://www.elegantthemes.com/blog/wp-content/uploads/2018/10/typewriter-font.png'
 tags: [{"label":"Ensaio","value":"ensaio"}]
 publishedAt: '2025-01-16T03:45:27.278Z'
 ---

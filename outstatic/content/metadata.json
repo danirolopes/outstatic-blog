@@ -1,6 +1,6 @@
 {
-  "commit": "6b680fd8b380c7f069f92637020c3539b7b13a57",
-  "generated": "2025-01-16T06:46:19.888Z",
+  "commit": "086fc56b13364dbd0834ff4c0313fbe966f6ea9b",
+  "generated": "2025-01-16T06:50:27.145Z",
   "metadata": [
     {
       "__outstatic": {
@@ -52,30 +52,6 @@
     },
     {
       "__outstatic": {
-        "commit": "58efaa9d164f1136a4deea2e8f0a6ab0f66a1080",
-        "hash": "1553779826",
-        "path": "outstatic/content/posts/primeiros-devaneios.md"
-      },
-      "author": {
-        "name": "Daniel Lopes",
-        "picture": ""
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-16T03:45:27.278Z",
-      "slug": "primeiros-devaneios",
-      "status": "published",
-      "tags": [
-        {
-          "label": "Ensaio",
-          "value": "ensaio"
-        }
-      ],
-      "title": "Primeiros Devaneios"
-    },
-    {
-      "__outstatic": {
         "commit": "6b680fd8b380c7f069f92637020c3539b7b13a57",
         "hash": "900771164",
         "path": "outstatic/content/pages/home.md"
@@ -91,6 +67,30 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "086fc56b13364dbd0834ff4c0313fbe966f6ea9b",
+        "hash": "2165492367",
+        "path": "outstatic/content/posts/primeiros-devaneios.md"
+      },
+      "author": {
+        "name": "Daniel Lopes",
+        "picture": ""
+      },
+      "collection": "posts",
+      "coverImage": "https://www.elegantthemes.com/blog/wp-content/uploads/2018/10/typewriter-font.png",
+      "description": "",
+      "publishedAt": "2025-01-16T03:45:27.278Z",
+      "slug": "primeiros-devaneios",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Ensaio",
+          "value": "ensaio"
+        }
+      ],
+      "title": "Primeiros Devaneios"
     }
   ]
 }
