@@ -12,7 +12,7 @@ publishedAt: '2022-03-17T05:35:07.322Z'
 
 # Eco chamber do Rolha
 
-Anotações e pensamentos sem compromisso. Leia sobre próprio risco de passar raiva. 
+Anotações e pensamentos sem compromisso. Leia sobre próprio risco de passar raiva
 
 Talvez toda quarta pontualmente às 23:13
 
