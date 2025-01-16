@@ -7,7 +7,7 @@ author:
 slug: 'primeiros-devaneios'
 description: ''
 coverImage: ''
-tags: ''
+tags: [{"label":"Ensaio","value":"ensaio"}]
 publishedAt: '2025-01-16T03:45:27.278Z'
 ---
 
@@ -39,7 +39,7 @@ publishedAt: '2025-01-16T03:45:27.278Z'
 
 ### **Apesar de tudo isso, hoje, infelizmente, eu escrevo por falta de opções**
 
-**A tecnologia avançou. Por seis mil anos, a escrita era a melhor opção para propagar, registrar e refinar ideias. Hoje, não é mais.** 
+**A tecnologia avançou. Por seis mil anos, a escrita era a melhor opção para propagar, registrar e refinar ideias. Hoje, não é mais.**
 
 **As redes sociais mostram que imagens, vídeos, streams, tiktoks, etc. são muito mais efetivos de sintetizar e transmitir pensamentos. Tentei fazer algo nesses formatos "modernos" vezes e falhei. Então, hoje, para não morrer de inação, calço as sandálias da humildade e me volto as boas e velhas dissertações.**
 
@@ -51,9 +51,9 @@ publishedAt: '2025-01-16T03:45:27.278Z'
 
 **Com vídeos e imagens, o autor consegue esconder a falta de clareza que ele tem sobre o conteúdo com a forma de apresentá-lo. Fazer uma prosa escancara esse fato. [Jeff Bezos concorda comigo.](https://www.sixpagermemo.com/blog/jeff-bezos-lex-fridman-six-page-memo)**
 
-**E, sendo sincero com meu leitor, muitas vezes vou falhar.** 
+**E, sendo sincero com meu leitor, muitas vezes vou falhar.**
 
-- **Muitas vezes vou escrever sobre algo que não domino** 
+- **Muitas vezes vou escrever sobre algo que não domino**
 - **Muitas vezes não vou ter tempo de refinar o que escrevi por muito tempo**
 - **Muitas vezes vou usar um post como um dump de pensamentos**
 - **Muitas vezes minha capacidade dissertativa será aquém de transmitir meus pensamentos**
