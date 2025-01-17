@@ -6,12 +6,20 @@ author:
   picture: ''
 slug: 'primeiros-devaneios'
 description: ''
-coverImage: 'https://www.elegantthemes.com/blog/wp-content/uploads/2018/10/typewriter-font.png'
+coverImage: '/images/whatsapp-image-2025-01-16-at-23.26.50-YwNj.jpeg'
 tags: [{"label":"Ensaio","value":"ensaio"}]
 publishedAt: '2025-01-16T03:45:27.278Z'
 ---
 
-A escrita é uma das coisas mais nobres que o ser humano pode fazer. Escrever registra para que não esqueçamos. Escrever organiza ideias e clareia a mente. Escrever comunica ideias através de séculos e fronteiras. Escrever faz parte de como nos identificamos como indivíduo, espécie e civilização. Escrever fez com que conseguíssemos criar máquinas que, se não pensam igual a nós, pelo menos estão bem próximas. Escrever mostra um pouco da alma humana
+Uma das primeiras coisas que aprendi quando comecei a estudar história foi que a "história" só começa depois da invenção da escrita. Antes de os sumérios começarem a fazer *tracinhos* em blocos de argila; ou de os egípcios pintarem *passarinhos* em pedras, tudo era "pré-história". E, para uma criança, era difícil entender que coisas tão simples para a gente — como a escrita, o fogo, a roda —, eram tão relevantes na nossa civilização.
+
+Hoje, passaram-se quase 20 anos desde esse primeiro evento. Nesse ínterim, eu: li centenas de milhões de palavras, várias escritas pelas maiores mentes da humanidade; escrevi outras milhões; passei em quatro dos concursos mais difíceis do país; cursei a faculdade mais renomada do Brasil; convivi e troquei ideias com dezenas das pessoas mais inteligentes que conheço; devaneei por milhares de horas sobre nossa existência humana. 
+
+E, depois de tudo isso, acho que o curioso Daniel de 10 anos de idade ficaria orgulhoso de conseguir ter entendido um pouco mais sobre o porquê das coisas. Sobretudo, sobre a importância do primeiro dominó na gigantesca pilha de abstrações em que pisamos e dependemos todos os dias: a escrita. 
+
+A escrita é uma das coisas mais nobres que o ser humano pode fazer. Escrever registra para que não esqueçamos e não sejamos esquecidos. Escrever organiza ideias e clareia a mente. Escrever comunica ideias através de séculos e fronteiras. Escrever faz com que possamos replicar coisas, disseminar riquezas, construir coisas ainda maiores. Escrever faz parte de como nos identificamos como indivíduo, espécie e civilização. Escrever fez com que conseguíssemos criar máquinas que, se não pensam igual a nós, pelo menos estão bem próximas. 
+
+### Escrever mostra um pouco da alma humana
 
 As pessoas mais importantes da história da humanidade deixaram um impacto gigante através da escrita. Existem inúmeros manuscritos que são quase (ou talvez até sejam) divinos e que nos afetam TODOS os dias:
 
@@ -23,7 +31,7 @@ As pessoas mais importantes da história da humanidade deixaram um impacto gigan
 
 ### **Porém, nos últimos 40 anos, a forma de escrita que mais afetou o *Zeitgeist* são os artigos/manifestos na internet**
 
-Talvez seja uma afirmação ousada, mas eu acho que o impacto que a internet tem no pensamento coletivo é subestimado.
+Talvez essa seja uma afirmação ousada. Mas eu acho que o impacto que a internet tem no pensamento coletivo é, por incrível que pareça, subestimado.
 
 - [Software is eating the world](https://a16z.com/why-software-is-eating-the-world/)
 - [A Declaration of the Independence of the Cyberspace](https://www.eff.org/cyberspace-independence)
@@ -64,7 +72,7 @@ Tentarei, claro, colocar o maior esforço possível na qualidade dos posts. Mas 
 
 ### **Uma ode aos pensadores anônimos**
 
-Não acho que nada que fazemos tem que ser justificado. Apesar desse texto ser uma justificativa, eu vejo ele mais como um *manifesto interno.* Estou escrevendo, sedimentando e me convencendo do racional que está na minha cabeça a uns bons meses.
+Não acho que nada que fazemos tem que ser justificado. Apesar desse texto ser uma justificativa, eu vejo ele mais como um *manifesto interno.* Estou escrevendo, sedimentando e, principalmente, me convencendo do racional que está na minha cabeça a uns bons meses.
 
 Tudo isso começou com alguns artigos e tweets que eu li e me inspiraram. Infelizmente de autores já esquecidos. Mas são justamente esses pensamentos anônimos que fazem a mídia social valer a pena. Compartilhar é uma das coisas que mas nos faz humano. Acho que compartilhei pouco. Tenho o dever de fazer mais, assim como fizeram comigo
 
