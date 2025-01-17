@@ -82,6 +82,6 @@ Por último, mas não menos importante, este texto e os que virão são uma decl
 
 Hoje, as redes sociais se tornaram sinônimo da Internet. Infelizmente, elas tiraram de nós boa parte desse sentimento. A descoberta feita pelo algoritmo é muito mais fácil e conveniente. Não faz mais sentido entrar nessa floresta de conhecimento cibernética com um facão na mão.
 
-Mas, apesar de ser muito mais eficiente, nem tudo que é eficiente é necessariamente correto. Do mesmo jeito que existe uma arte no texto, ela também existe na descoberta, no devaneio e na exploração. Espero que consiga despertar esse sentimento em alguém.
+Mas, apesar de ser muito mais eficiente, nem tudo que é eficiente é necessariamente correto. Do mesmo jeito que existe uma arte no texto, ela também existe na descoberta, no devaneio e na exploração. Espero que eu consiga despertar esse sentimento em alguém.
 
 **Por uma internet livre, descentralizada e humana.**
