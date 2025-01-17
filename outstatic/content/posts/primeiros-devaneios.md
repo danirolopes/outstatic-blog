@@ -13,7 +13,7 @@ publishedAt: '2025-01-16T01:48:27.000Z'
 
 Uma das primeiras coisas que aprendi quando comecei a estudar história foi que a "história" só começa depois da invenção da escrita. Antes de os sumérios começarem a fazer *tracinhos* em blocos de argila; ou de os egípcios pintarem *passarinhos* em pedras, tudo era "pré-história". E, para uma criança, era difícil entender que coisas tão simples para a gente — como a escrita, o fogo, a roda —, eram tão relevantes na nossa civilização.
 
-Hoje, passaram-se quase 20 anos desde esse primeiro evento. Nesse ínterim, eu: li centenas de milhões de palavras, várias escritas pelas maiores mentes da humanidade; escrevi outras milhões; passei em quatro dos concursos mais difíceis do país; cursei a faculdade mais renomada do Brasil; convivi e troquei ideias com dezenas das pessoas mais inteligentes que conheço; devaneei por milhares de horas sobre nossa existência humana.
+Hoje, passaram-se quase 20 anos desde esse meu primeiro aprendizado. Nesse ínterim, eu: li centenas de milhões de palavras, várias escritas pelas maiores mentes da humanidade; escrevi outras milhões; passei em quatro dos concursos mais difíceis do país; cursei a faculdade mais renomada do Brasil; convivi e troquei ideias com dezenas das pessoas mais inteligentes que conheço; devaneei por milhares de horas sobre nossa existência humana.
 
 E, depois de tudo isso, acho que o curioso Daniel de 10 anos de idade ficaria orgulhoso de conseguir ter entendido um pouco mais sobre o porquê das coisas. Sobretudo, sobre a importância do primeiro dominó na gigantesca pilha de abstrações em que pisamos e dependemos todos os dias: a escrita.
 
@@ -78,7 +78,7 @@ Tudo isso começou com alguns artigos e tweets que eu li e me inspiraram. Infeli
 
 Por último, mas não menos importante, esse texto e os que virão são uma declaração de amor pela velha Internet. Todos tivemos o momento que os olhos brilharam lendo um blog, acessando um site, conhecendo um fórum, conectando a um servidor de jogos. Essa descentralização, independência e esse sentimento de agência e descoberta foram mágicos e difíceis de descrever hoje.
 
-Hoje, as redes sociais se tornaram sinônimo da Internet. Infelizmente, elas tiraram de nós boa parte desse sentimento. A descoberta feita pelo algoritmo é muito mais fácil e conveniente. Não faz mais sentido entrar nessa floresta de conhecimento cibernética com um facão na mão. 
+Hoje, as redes sociais se tornaram sinônimo da Internet. Infelizmente, elas tiraram de nós boa parte desse sentimento. A descoberta feita pelo algoritmo é muito mais fácil e conveniente. Não faz mais sentido entrar nessa floresta de conhecimento cibernética com um facão na mão.
 
 Mas, apesar de ser muito mais eficiente, nem tudo que é eficiente é necessariamente correto. Do mesmo jeito que existe uma arte no texto, ela também existe na descoberta, no devaneio e na exploração. Espero que consiga despertar esse sentimento em alguém.
 
