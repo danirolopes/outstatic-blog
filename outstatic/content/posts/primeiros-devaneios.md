@@ -53,7 +53,7 @@ As redes sociais mostram que imagens, vídeos, streams, podcasts, tiktoks, etc. 
 
 Talvez esses novos meios de comunicação sejam realmente melhores. Afinal, eles conseguem trazer muito mais informação visual, que somos muito bem adaptados de consumir.
 
-Mas talvez a escrita tenha algum molho secreto que mostra o motivo de ela ter dominado por tanto tempo. Eu tenho uma hipótese de que a quantidade de *bits/s* que conseguimos ler é a mais adequada para nosso cérebro. Com vídeos, acabamos prestando atenção em detalhes que acabam diminuindo o nível de compreensão e de transferência de pensamentos.
+Mas talvez a escrita tenha algum *molho secreto* que mostra o motivo de ela ter dominado por tanto tempo. Eu tenho uma hipótese de que a quantidade de *bits/s* que conseguimos ler é a mais adequada para nosso cérebro. Com vídeos, acabamos prestando atenção em detalhes que acabam diminuindo o nível de compreensão e de transferência de pensamentos.
 
 ### **A escrita deixa o autor pelado**
 
