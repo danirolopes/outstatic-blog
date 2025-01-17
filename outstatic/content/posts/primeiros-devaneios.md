@@ -45,7 +45,7 @@ Todos esses são exemplos de artigos absurdamente impactantes. Todos eles mais v
 
 Existe um sentimento ao mesmo tempo libertador e angustiante com isso. Afinal: tenho meu computador em mãos, por que eu não conseguiria fazer igual? Essa liberdade sartriana nos faz confrontar com nosso ego de uma maneira muito dura.
 
-Dito isso, parece ser óbvio e ululante que ter um espaço para produzir artigos pessoais faz sentido e deve ser feito por todos que consideram que tem algo a dizer.
+Dito isso, parece ser óbvio e ululante que ter um espaço para produzir artigos pessoais faz sentido e deve ser feito por todos que consideram que tem algo a dizer. Eu certamente acredito que tenho.
 
 ### **Apesar de tudo isso, hoje, infelizmente, eu escrevo por falta de opções**
 
