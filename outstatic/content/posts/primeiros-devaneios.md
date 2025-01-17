@@ -82,7 +82,7 @@ Tudo isso começou com alguns artigos e tweets que eu li e me inspiraram. Infeli
 
 Por último, mas não menos importante, este texto e os que virão são uma declaração de amor pela velha Internet. Todos tivemos o momento que os olhos brilharam lendo um blog, acessando um site, conhecendo um fórum, conectando a um servidor de jogos. Essa descentralização, independência e esse sentimento de agência e descoberta foram mágicos e difíceis de descrever atualmente.
 
-Hoje, as redes sociais se tornaram sinônimo da Internet. Infelizmente, elas tiraram de nós boa parte desse sentimento. A descoberta feita pelo algoritmo é muito mais fácil e conveniente. Não faz mais sentido entrar nessa floresta de conhecimento cibernética com um facão na mão.
+Hoje, as redes sociais se tornaram sinônimo da Internet. Infelizmente, elas tiraram de nós boa parte desse sentimento. A descoberta feita pelo algoritmo é muito mais fácil, conveniente e, muitas vezes, melhor. Não faz mais sentido entrar nessa floresta de conhecimento cibernética com um facão na mão.
 
 Mas, apesar de ser muito mais eficiente, nem tudo que é eficiente é necessariamente correto. Do mesmo jeito que existe uma arte no texto, ela também existe na descoberta, no devaneio e na exploração. Espero que eu consiga despertar esse sentimento em alguém.
 
