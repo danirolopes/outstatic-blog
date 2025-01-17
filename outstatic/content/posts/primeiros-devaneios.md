@@ -11,7 +11,7 @@ tags: [{"label":"Ensaio","value":"ensaio"}]
 publishedAt: '2025-01-16T01:48:27.000Z'
 ---
 
-Uma das primeiras coisas que aprendi quando comecei a estudar história foi que a "história" só começa depois da invenção da escrita. Antes de os sumérios começarem a fazer *tracinhos* em blocos de argila; ou de os egípcios pintarem *passarinhos* em pedras, tudo era "pré-história". E, para uma criança, era difícil entender que coisas tão simples para a gente — como a escrita, o fogo, a roda —, eram tão relevantes na nossa civilização.
+Uma das primeiras coisas que aprendi quando comecei a estudar história foi que a "história" só começa depois da invenção da escrita. Antes de os sumérios começarem a fazer *tracinhos* em blocos de argila; ou de os egípcios pintarem *passarinhos* em pedras, tudo era "pré-história". E, para uma criança, era difícil entender que coisas tão simples para a gente — como a escrita, o fogo, a roda —, eram tão relevantes para a nossa civilização.
 
 Hoje, passaram-se quase 20 anos desde esse meu primeiro aprendizado. Nesse ínterim, eu: li centenas de milhões de palavras, várias escritas pelas maiores mentes da humanidade; escrevi outras milhões; passei em quatro dos concursos mais difíceis do país; cursei a faculdade mais renomada do Brasil; convivi e troquei ideias com dezenas das pessoas mais inteligentes que conheço; devaneei por milhares de horas sobre nossa existência humana.
 
