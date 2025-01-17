@@ -6,9 +6,9 @@ author:
   picture: ''
 slug: 'primeiros-devaneios'
 description: ''
-coverImage: '/images/whatsapp-image-2025-01-16-at-23.26.50-YwNj.jpeg'
+coverImage: '/images/whatsapp-image-2025-01-16-at-23.26.50-QwMT.jpeg'
 tags: [{"label":"Ensaio","value":"ensaio"}]
-publishedAt: '2025-01-16T03:45:27.278Z'
+publishedAt: '2025-01-16T01:48:27.000Z'
 ---
 
 Uma das primeiras coisas que aprendi quando comecei a estudar história foi que a "história" só começa depois da invenção da escrita. Antes de os sumérios começarem a fazer *tracinhos* em blocos de argila; ou de os egípcios pintarem *passarinhos* em pedras, tudo era "pré-história". E, para uma criança, era difícil entender que coisas tão simples para a gente — como a escrita, o fogo, a roda —, eram tão relevantes na nossa civilização.
