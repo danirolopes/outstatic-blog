@@ -11,7 +11,7 @@ tags: [{"label":"Ensaio","value":"ensaio"}]
 publishedAt: '2025-01-16T01:48:27.000Z'
 ---
 
-Uma das primeiras coisas que aprendi quando comecei a estudar história foi que a "história" só começa depois da invenção da escrita. Antes de os sumérios começarem a fazer *tracinhos* em blocos de argila; ou de os egípcios pintarem *passarinhos* em pedras, tudo era "pré-história". E, para uma criança, era difícil entender que coisas tão simples para a gente atualmente — como a escrita, o fogo, a roda —, eram tão relevantes para a nossa civilização.
+Uma das primeiras coisas que aprendi quando comecei a estudar história foi que a "história" só começa depois da invenção da escrita. Antes de os sumérios começarem a fazer *tracinhos* em blocos de argila; ou de os egípcios pintarem *passarinhos* em pedras, tudo era "pré-história". E, para uma criança, era difícil entender que coisas tão simples para a gente atualmente — como a escrita, o fogo, a roda —, eram tão relevantes para nossa civilização.
 
 Hoje, passaram-se quase 20 anos desde esse meu primeiro aprendizado. Nesse ínterim, eu: li centenas de milhões de palavras, várias escritas pelas maiores mentes da humanidade; escrevi outras milhões; passei em quatro dos concursos mais difíceis do país; cursei a faculdade mais renomada do Brasil; convivi e troquei ideias com dezenas das pessoas mais inteligentes que conheço; viajei para dezenas de países e cidades, convivendo com diferentes culturas; devaneei por milhares de horas sobre nossa existência humana.
 
@@ -42,6 +42,8 @@ Talvez essa seja uma afirmação ousada. Mas eu acho que o impacto que a interne
 - [Manifesto for Agile Software Development](https://agilemanifesto.org/)
 
 Todos esses são exemplos de artigos absurdamente impactantes. Todos eles mais voltados para tecnologia, claro, pois é a área que tenho mais proficiência. Mas existem vários exemplos em todas as áreas.
+
+Existe um sentimento ao mesmo tempo libertador e angustiante com isso. Afinal: tenho meu computador em mãos, por que eu não conseguiria fazer igual? Essa liberdade sartriana nos faz confrontar com nosso ego de uma maneira muito dura.
 
 Dito isso, parece ser óbvio e ululante que ter um espaço para produzir artigos pessoais faz sentido e deve ser feito por todos que consideram que tem algo a dizer.
 
