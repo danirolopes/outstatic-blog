@@ -49,7 +49,7 @@ Dito isso, parece ser óbvio e ululante que ter um espaço para produzir artigos
 
 A tecnologia avançou. Por seis mil anos, a escrita era a melhor opção para propagar, registrar e refinar ideias. Hoje, não é mais.
 
-As redes sociais mostram que imagens, vídeos, streams, podcasts, tiktoks, etc. são muito mais efetivos de sintetizar e transmitir pensamentos. Tentei fazer algo nesses formatos "modernos" vezes e falhei. Então, hoje, para não morrer de inação, calço as sandálias da humildade e me volto as boas e velhas dissertações.
+As redes sociais mostram que imagens, vídeos, streams, podcasts, tiktoks, etc. são muito mais efetivos em sintetizar e transmitir pensamentos. Tentei fazer algo nesses formatos "modernos" vezes e falhei. Então, hoje, para não morrer de inação, calço as sandálias da humildade e me volto as boas e velhas dissertações.
 
 Talvez esses novos meios de comunicação sejam realmente melhores. Afinal, eles conseguem trazer muito mais informação visual, que somos muito bem adaptados de consumir.
 
