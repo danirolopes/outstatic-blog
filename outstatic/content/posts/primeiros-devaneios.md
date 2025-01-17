@@ -41,7 +41,9 @@ Talvez essa seja uma afirmação ousada. Mas eu acho que o impacto que a interne
 - [How to Start a Startup](https://paulgraham.com/start.html)
 - [Manifesto for Agile Software Development](https://agilemanifesto.org/)
 
-Todos esses são exemplos de artigos absurdamente impactantes. Todos eles mais voltados para tecnologia, claro, pois é a área que tenho mais proficiência. Mas existem vários exemplos em todas as áreas.
+Todos esses são exemplos de artigos absurdamente impactantes. Todos eles mais voltados para tecnologia, claro, pois é a área que tenho mais proficiência. Mas  todas as áreas tem vários exemplos disso.
+
+É surreal imaginar que hoje é possível ter o maior megafone do mundo nas suas mãos. Basta ter uma ideia contagiante o suficiente que ela vai se replicar indefinidamente através de protocolos de rede e páginas de HTML.
 
 Existe um sentimento ao mesmo tempo libertador e angustiante com isso. Afinal: tenho meu computador em mãos, por que eu não conseguiria fazer igual? Essa liberdade sartriana nos faz confrontar com nosso ego de uma maneira muito dura.
 
