@@ -19,7 +19,7 @@ E, depois de tudo isso, acho que o curioso Daniel de 10 anos de idade ficaria or
 
 ### Escrever mostra um pouco da alma humana
 
-A escrita é uma das coisas mais nobres que o ser humano pode fazer. Escrever registra para que não esqueçamos e não sejamos esquecidos. Escrever organiza ideias e clareia a mente. Escrever comunica ideias através de séculos e fronteiras. Escrever faz com que possamos replicar coisas, disseminar riquezas, e construir coisas cada vez maiores. Escrever faz parte de como nos identificamos como indivíduo, espécie e civilização. Escrever fez com que conseguíssemos criar máquinas que, se não pensam igual a nós, pelo menos estão bem próximas.
+A escrita é uma das coisas mais nobres que o ser humano pode fazer. Escrever registra para que não esqueçamos e não sejamos esquecidos. Escrever organiza ideias e clareia a mente. Escrever comunica ideias através de séculos e fronteiras. Escrever faz com que possamos replicar coisas, disseminar riquezas, e fazer invenções cada vez maiores e complexas. Escrever faz parte de como nos identificamos como indivíduo, espécie e civilização. Escrever fez com que conseguíssemos criar máquinas que, se não pensam igual a nós, pelo menos estão bem próximas.
 
 As pessoas mais importantes da história da humanidade deixaram um impacto imensurável através da escrita. Existem inúmeros manuscritos que são quase (ou talvez até sejam) divinos e que nos afetam TODOS os dias:
 
@@ -76,7 +76,7 @@ Não acho que nada que fazemos tem que ser justificado. Apesar desse texto ser u
 
 Tudo isso começou com alguns artigos e tweets que eu li e me inspiraram. Infelizmente de autores já esquecidos. Mas são justamente esses pensamentos anônimos que fazem a mídia social valer a pena. Compartilhar é uma das coisas que mais nos faz humano. Acho que compartilhei pouco. Tenho o dever de fazer mais, assim como fizeram comigo.
 
-Por último, mas não menos importante, este texto e os que virão são uma declaração de amor pela velha Internet. Todos tivemos o momento que os olhos brilharam lendo um blog, acessando um site, conhecendo um fórum, conectando a um servidor de jogos. Essa descentralização, independência e esse sentimento de agência e descoberta foram mágicos e difíceis de descrever hoje.
+Por último, mas não menos importante, este texto e os que virão são uma declaração de amor pela velha Internet. Todos tivemos o momento que os olhos brilharam lendo um blog, acessando um site, conhecendo um fórum, conectando a um servidor de jogos. Essa descentralização, independência e esse sentimento de agência e descoberta foram mágicos e difíceis de descrever atualmente.
 
 Hoje, as redes sociais se tornaram sinônimo da Internet. Infelizmente, elas tiraram de nós boa parte desse sentimento. A descoberta feita pelo algoritmo é muito mais fácil e conveniente. Não faz mais sentido entrar nessa floresta de conhecimento cibernética com um facão na mão.
 
