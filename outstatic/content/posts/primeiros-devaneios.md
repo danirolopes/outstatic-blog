@@ -11,11 +11,11 @@ tags: [{"label":"Ensaio","value":"ensaio"}]
 publishedAt: '2025-01-16T01:48:27.000Z'
 ---
 
-Uma das primeiras coisas que aprendi quando comecei a estudar história foi que a "história" só começa depois da invenção da escrita. Antes de os sumérios começarem a fazer *tracinhos* em blocos de argila; ou de os egípcios pintarem *passarinhos* em pedras, tudo era "pré-história". E, para uma criança, era difícil entender que coisas tão simples para a gente atualmente — como a escrita, o fogo, a roda —, eram tão relevantes para nossa civilização.
+Uma das primeiras coisas que aprendi quando comecei a estudar História foi que a "história" só começa depois da invenção da escrita. Antes de os sumérios começarem a fazer *tracinhos* em blocos de argila; ou de os egípcios pintarem *passarinhos* em pedras, tudo era "pré-história". E, para uma criança, era difícil entender que coisas tão simples atualmente — como a escrita, o fogo, a roda —, eram tão relevantes para nossa civilização.
 
-Hoje, passaram-se quase 20 anos desde esse meu primeiro aprendizado. Nesse ínterim, eu: li centenas de milhões de palavras, várias escritas pelas maiores mentes da humanidade; escrevi outras milhões; passei em quatro dos concursos mais difíceis do país; cursei a faculdade mais renomada do Brasil; convivi e troquei ideias com dezenas das pessoas mais inteligentes que conheço; viajei para dezenas de países e cidades, convivendo com diferentes culturas; devaneei por milhares de horas sobre nossa existência humana.
+Hoje, passaram-se quase 20 anos desde esse meu primeiro aprendizado. Nesse ínterim, eu: li centenas de milhões de palavras, várias escritas pelas maiores mentes da humanidade; escrevi outras milhões; passei em quatro dos concursos mais difíceis do Brasil; cursei a faculdade mais renomada do país; convivi e troquei ideias com dezenas das pessoas mais inteligentes que conheço; viajei para dezenas de países e cidades, convivendo com diferentes culturas; devaneei por milhares de horas sobre nossa existência humana.
 
-E, depois de tudo isso, acho que o curioso Daniel de 10 anos de idade ficaria orgulhoso de conseguir ter entendido um pouco mais sobre o porquê das coisas. Sobretudo, sobre a importância do primeiro dominó na gigantesca pilha de abstrações em que pisamos e dependemos todos os dias: a escrita.
+E, depois de tudo isso, acho que o curioso Daniel de 10 anos de idade ficaria orgulhoso de conseguir ter entendido um pouco mais sobre o porquê das coisas. Sobretudo, sobre a importância do primeiro dominó na gigantesca pilha de abstrações que construímos e em que pisamos e dependemos todos os dias: a escrita.
 
 ### Escrever mostra um pouco da alma humana
 
@@ -45,17 +45,17 @@ Todos esses são exemplos de artigos absurdamente impactantes. Todos eles mais v
 
 É surreal imaginar que hoje é possível ter o maior megafone do mundo nas suas mãos. Basta ter uma ideia contagiante o suficiente que ela vai se replicar indefinidamente através de protocolos de rede e páginas de HTML.
 
-Existe um sentimento ao mesmo tempo libertador e angustiante com isso. Afinal: tenho meu computador em mãos, por que eu não conseguiria fazer igual? Essa liberdade sartriana nos faz confrontar com nosso ego de uma maneira muito dura.
+Existe um sentimento ao mesmo tempo libertador e angustiante com isso. Afinal: tenho meu computador em mãos, por que eu não conseguiria fazer igual? Essa liberdade sartriana nos faz confrontar nosso ego de uma maneira muito dura.
 
-Resolvidos esses conflitos internos, parece ser óbvio e ululante que ter um espaço para produzir artigos pessoais faz sentido e deve ser feito por todos que consideram que tem algo a dizer. Eu certamente acredito que tenho.
+Umas vez resolvidos esses conflitos internos, parece ser óbvio e ululante que ter um espaço para produzir artigos pessoais faz sentido e deve ser feito por todos que consideram que tem algo a dizer. Eu certamente acredito que tenho.
 
 ### **Apesar de tudo isso, hoje, infelizmente, eu escrevo por falta de opções**
 
 A tecnologia avançou. Por seis mil anos, a escrita era a melhor opção para propagar, registrar e refinar ideias. Hoje, não é mais.
 
-As redes sociais mostram que imagens, vídeos, streams, podcasts, tiktoks, etc. são muito mais efetivos em sintetizar e transmitir pensamentos. Tentei fazer algo nesses formatos "modernos" algumas vezes, e falhei. Então, hoje, para não morrer de inação, calço as sandálias da humildade e me volto as boas e velhas dissertações.
+As redes sociais mostram que imagens, vídeos, streams, podcasts, tiktoks, etc. são muito mais efetivos em sintetizar e transmitir pensamentos. Tentei fazer algo nesses formatos "modernos" algumas vezes, e falhei. Então, hoje, para não morrer de inação, calço as sandálias da humildade e me volto às boas e velhas dissertações.
 
-Talvez esses novos meios de comunicação sejam realmente melhores. Afinal, eles conseguem trazer muito mais informação visual, que somos muito bem adaptados de consumir.
+Talvez esses novos meios de comunicação sejam realmente melhores. Afinal, eles conseguem trazer muito mais informação visual, que somos muito bem adaptados e evoluídos a consumir.
 
 Mas talvez a escrita tenha algum *molho secreto* que mostra o motivo de ela ter dominado por tanto tempo. Eu tenho uma hipótese de que a quantidade de *bits/s* que conseguimos ler é a mais adequada para nosso cérebro. Com vídeos, acabamos prestando atenção em detalhes que acabam diminuindo o nível de compreensão e de transferência de pensamentos.
 
@@ -67,7 +67,7 @@ E, sendo sincero com meu leitor, muitas vezes vou falhar. Terei que aprender a l
 
 - Muitas vezes vou escrever sobre algo que não domino
 - Muitas vezes não vou ter tempo de refinar o que escrevi por muito tempo
-- Muitas vezes vou usar um post como um dump de pensamentos
+- Muitas vezes vou usar um post como um dump da minha mente
 - Muitas vezes minha capacidade dissertativa será aquém de transmitir meus pensamentos
 
 Tentarei, claro, colocar o maior esforço possível na qualidade dos posts. Mas o foco, hoje, não é qualidade. Assim que eu conseguir ganhar mais habilidade e disciplina na escrita, podem ter certeza que o plano será mudado (e talvez comunicado rs).
@@ -82,7 +82,7 @@ Tudo isso começou com alguns artigos e tweets que eu li e me inspiraram. Infeli
 
 Por último, mas não menos importante, este texto e os que virão são uma declaração de amor pela velha Internet. Todos tivemos o momento que os olhos brilharam lendo um blog, acessando um site, conhecendo um fórum, conectando a um servidor de jogos. Essa descentralização, independência e esse sentimento de agência e descoberta foram mágicos e difíceis de descrever atualmente.
 
-Hoje, as redes sociais se tornaram sinônimo da Internet. Infelizmente, elas tiraram de nós boa parte desse sentimento. A descoberta feita pelo algoritmo é muito mais fácil, conveniente e, muitas vezes, melhor. Não faz mais sentido entrar nessa floresta de conhecimento cibernética com um facão na mão.
+Hoje, as redes sociais se tornaram sinônimo da Internet. Infelizmente, elas tiraram de nós boa parte desse sentimento. A descoberta feita pelo algoritmo é muito mais fácil, conveniente e, muitas vezes, melhor. Não faz mais sentido racional entrar nessa floresta de conhecimento cibernética com um facão na mão.
 
 Mas, apesar de ser muito mais eficiente, nem tudo que é eficiente é necessariamente correto. Do mesmo jeito que existe uma arte no texto, ela também existe na descoberta, no devaneio e na exploração. Espero que eu consiga despertar esse sentimento em alguém.
 
